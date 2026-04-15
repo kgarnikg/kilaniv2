@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://peluqueriakilani.es/sitemap.xml
+
+# No indexar recursos internos
+Disallow: /admin/
+Disallow: /api/
